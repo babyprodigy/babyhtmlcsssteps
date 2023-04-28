@@ -1,0 +1,36 @@
+
+* {
+    background-color: bisque;
+}
+
+p {
+    color: seagreen;
+    font-size: small;
+    text-align: right;
+}
+
+h1 {
+    color:black;
+    font-size: large;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color:darkslategrey;
+    font-size: medium;
+
+}
+
+h3 {
+    text-align: center;
+    color: darkolivegreen;
+    font-size: small;
+}
+
+img{
+    height: auto;
+    width: 500;
+}
+
+
