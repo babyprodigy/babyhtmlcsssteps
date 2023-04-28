@@ -3,6 +3,14 @@
     background-color: bisque;
 }
 
+
+ol {
+    color: darkgreen;
+}
+
+ul{
+    color: blueviolet;
+}
 p {
     color: seagreen;
     font-size: small;
